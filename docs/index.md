@@ -18,6 +18,14 @@ JESSICA, through its Geo Data Index, aggregates vast scientific data available i
 
 For this project, we used Scratch as a prototyping tool. It is used by primary school kids to create interactive stories, animation, and games. For this hack, we used Scratch as a prototyping tool to conduct tests.
 
+### Data Story
+
+There are vast amounts of scientific data that is open and available for use. The challenge has always been how to encourage the use of this data not just by the scientific community and professionals/experts, but also making them accessible to the general public (who normally don't have data science skills).
+
+The key to addressing this is to create an index that serves as a bridge between vast scientific data and the general public. Just like the Google Search index, entries in JESSICA Geo Data Index reference external data sources. Its records are in a standard format: geolocation, category (or tag), datasource name, and external ID.
+
+JESSICA is location based, and content that is viewed/posted has geolocation is presented with relevant local data (using similar tags) in close proximity.
+
 ### How JESSICA Addresses the Challenges
 
 **Water Quality - Gippsland Lakes**
