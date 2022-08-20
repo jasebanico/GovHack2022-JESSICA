@@ -1,6 +1,6 @@
 ## JESSICA: Junior Environment Science Student Information and Collaboration App
 
-![screen](/assets/ux-and-data-fields.png)
+![screen](/docs/assets/ux-and-data-fields.png)
 
 ### Description
 
