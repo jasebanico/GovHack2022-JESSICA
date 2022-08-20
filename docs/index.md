@@ -12,7 +12,7 @@ For example, schools and organisations can host activities in JESSICA such as:
 - finding and identifying rare species, such as the jewel beetle, in ACT
 - study water quality and its effect on flora and fauna in Gippsland Lakes
 
-By reading and posting content/media in JESSICA, they also get to practice valuable work skills such as research, observation, analysis, communication, and presentation skills. They also get to interact with the local environment industry and its professionals.
+By reading and posting content/media in JESSICA, they also get to practice valuable work skills such as research, observation, analysis, communication, and presentation skills. They also get to interact with the local environment industry and its professionals, and maybe encourage them to pursue a STEM career!
 
 JESSICA, through its Geo Data Index, aggregates vast scientific data available in various repositories and transforms them into a standard format, making them accessible to the general public, by presenting relevant local data in close proximity.
 
