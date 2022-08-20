@@ -1,1 +1,1 @@
-# GovHack2022-JESSICA
+# JESSICA: Junior Environmental Science Student Information and Collaboration App
