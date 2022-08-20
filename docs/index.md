@@ -1,5 +1,7 @@
 ## JESSICA: Junior Environment Science Student Information and Collaboration App
 
+[<img src="http://www.google.com.au/images/nav_logo7.png">]
+
 ### Description
 
 Citizen Science is when the public voluntarily help conduct scientific research, and share results to organisations and the public. It's also a great way to get the youth engaged with the local community and the environment!
