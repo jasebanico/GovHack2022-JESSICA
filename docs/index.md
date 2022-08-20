@@ -14,7 +14,7 @@ For example, schools and organisations can host activities in JESSICA such as:
 
 By reading and posting content/media in JESSICA, they also get to practice valuable work skills such as research, observation, analysis, communication, and presentation skills. They also get to interact with the local environment industry and its professionals.
 
-JESSICA, through its Geo Index App, aggregates vast scientific data available in various repositories, and make them accessible to the general public, by flagging relevant local information in close proximity.
+JESSICA, through its Geo Data Index, aggregates vast scientific data available in various repositories and transforms them into standard format, making them accessible to the general public, by flagging relevant local information in close proximity.
 
 For this project, we used Scratch as a prototyping tool. It is used by primary school kids to create interactive stories, animation, and games. For this hack, we used Scratch as a prototyping tool to conduct tests.
 
