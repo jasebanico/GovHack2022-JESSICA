@@ -4,7 +4,7 @@
 
 **Water Quality - Gippsland Lakes**
 
-JESSICA enables Citizen Scientists to learn about, and contribute to, Gippsland Lakes water quality research, helping provide answers to the Gippsland Lakes water quality. Users, such as students, can access local water quality data from linked APIS (through our Geo Index) and use them to conduct further study, such as its impact on flora and fauna.
+JESSICA enables Citizen Scientists to learn about, and contribute to, Gippsland Lakes water quality research, helping provide answers to the Gippsland Lakes water quality. We are inspired by the story of primary school students in Otago, NZ, who help study the effects of dredging on their local marine life. Users, such as students, can access local water quality data from linked APIS (through our Geo Index) and use them to conduct further study, such as its impact on flora and fauna.
 
 **Skills Development - Life after School**
 
