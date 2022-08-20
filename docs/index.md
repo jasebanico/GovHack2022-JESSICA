@@ -28,6 +28,8 @@ The key to addressing this is to create an index that serves as a bridge between
 
 JESSICA is location-based, and content that is viewed/posted (with geolocation) will also be presented with relevant local data (using similar tags) in close proximity.
 
+![screen](/docs/assets/system-diagram.png)
+
 ### How JESSICA Addresses the Challenges
 
 **Water Quality - Gippsland Lakes**
