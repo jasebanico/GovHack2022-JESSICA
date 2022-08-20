@@ -2,7 +2,7 @@
 
 ### Description
 
-Citizen Science is when the public voluntarily help conduct scientific research, and share results to organisations and the public. It's also a great way to get the youth engaged with the local community environment!
+Citizen Science is when the public voluntarily help conduct scientific research, and share results to organisations and the public. It's also a great way to get the youth engaged with the local community and the environment!
 
 JESSICA stands for Junior Environmental Science Student Information and Collaboration App, and it is both a tool and a community to encourage in the participation of Citizen Science, engaging students with their local community and environmental organisations.
 
