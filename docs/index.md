@@ -1,5 +1,23 @@
 ## JESSICA: Junior Environment Science Student Information and Collaboration App
 
+### Description
+
+Citizen Science is when the public voluntarily help conduct scientific research, and share results to organisations and the public. It's also a great way to get the youth engaged with the local community environment!
+
+JESSICA stands for Junior Environmental Science Student Information and Collaboration App, and it is both a tool and a community to encourage in the participation of Citizen Science, engaging students with their local community and environmental organisations.
+
+For example, schools and organisations can host activities in JESSICA such as:
+- being weed warriors in NT, to learn about, and help in, the fight against Gamba Grass
+- contribute to koala research in QLD
+- finding and identifying rare species, such as the jewel beetle, in ACT
+- study water quality and its effect on flora and fauna in Gippsland Lakes
+
+By reading and posting content/media in JESSICA, they also get to practice valuable work skills such as research, observation, analysis, communication, and presentation skills. They also get to interact with the local environment industry and its professionals.
+
+JESSICA, through its Geo Index App, aggregates vast scientific data available in various repositories, and make them accessible to the general public, by flagging relevant local information in close proximity.
+
+For this project, we used Scratch as a prototyping tool. It is used by primary school kids to create interactive stories, animation, and games. For this hack, we used Scratch as a prototyping tool to conduct tests.
+
 ### How JESSICA Addresses the Challenges
 
 **Water Quality - Gippsland Lakes**
