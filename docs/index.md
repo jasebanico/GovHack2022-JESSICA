@@ -26,9 +26,6 @@ The key to addressing this is to create an index that serves as a bridge between
 
 JESSICA is location-based, and content that is viewed/posted (with geolocation) will also be presented with relevant local data (using similar tags) in close proximity.
 
-
-[<img src="[https://raw.githubusercontent.com/jasebanico/GovHack2022-JESSICA/main/artifacts/system-diagram.png](https://raw.githubusercontent.com/jasebanico/GovHack2022-JESSICA/main/artifacts/system-diagram.png)">]
-
 ### How JESSICA Addresses the Challenges
 
 **Water Quality - Gippsland Lakes**
