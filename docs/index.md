@@ -1,6 +1,6 @@
 ## JESSICA: Junior Environment Science Student Information and Collaboration App
 
-![screen]([/docs/assets/ux-and-data-fields.png](https://raw.githubusercontent.com/jasebanico/GovHack2022-JESSICA/main/artifacts/ux-and-data-fields.png))
+![screen](/docs/assets/ux-and-data-fields.png)
 
 ### Description
 
