@@ -1,5 +1,9 @@
 ## JESSICA: Junior Environment Science Student Information and Collaboration App
 
+## [Visit our Scratch demo at https://bit.ly/jessica-demo.](https://bit.ly/jessica-demo)
+
+![screen](assets/ux-and-data-fields.png)
+
 ### Description
 
 Citizen Science is when the public voluntarily help conduct scientific research, and share results to organisations and the public. It's also a great way to get the youth engaged with the local community and the environment!
@@ -25,6 +29,8 @@ There are vast amounts of scientific data that are open and available for use. T
 The key to addressing this is to create an index that serves as a bridge between vast scientific data (such as the data sets we have linked to this hack) and the general public. Just like the Google Search index, entries in JESSICA Geo Data Index reference external data sources. Its records are in a standard format: geolocation, category (or tag), datasource name, and external ID.
 
 JESSICA is location-based, and content that is viewed/posted (with geolocation) will also be presented with relevant local data (using similar tags) in close proximity.
+
+![screen](assets/system-diagram.png)
 
 ### How JESSICA Addresses the Challenges
 
