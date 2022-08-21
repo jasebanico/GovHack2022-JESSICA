@@ -1,6 +1,6 @@
 ## JESSICA: Junior Environment Science Student Information and Collaboration App
 
-### [Visit our Scratch demo at https://bit.ly/jessica-demo.](https://bit.ly/jessica-demo)
+## [Visit our Scratch demo at https://bit.ly/jessica-demo.](https://bit.ly/jessica-demo)
 
 ![screen](assets/ux-and-data-fields.png)
 
