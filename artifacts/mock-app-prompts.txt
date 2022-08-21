@@ -1,0 +1,39 @@
+[INDEX]
+
+"This is the front page of JESSICA. Users can use the map or search for activities they like to participate in. Click on any of the buttons to see an example.
+1 for Gippsland
+2 for Norhern Territory
+3 for ACT
+4 for Moreton Bay"
+
+[GIPPSLAND]
+
+1: "You have found the Lakes Entrance Dredging Impact activity. Click on the screen to enter a sample post."
+
+2: "This is a sample form where you can enter your findings. Make sure to communicate your findings well, and link to local scientific data that is relevant to your content."
+
+3: "Congratulations! By contributing your findings, you are now officially a JESSICA Citizen Scientist! Click on the image to go back to the front page."
+
+[NORTHERN TERRITORY]
+
+1: "You have found the Weed Warriors of Darwin activity. Click on the screen to enter a sample post."
+
+2: "This is a sample form where you can enter your findings. Make sure to communicate your findings well, and link to local scientific data that is relevant to your content."
+
+3: "Congratulations! By contributing your findings, you are now officially a JESSICA Citizen Scientist! Click on the image to go back to the front page."
+
+[ACT]
+
+1: "You have found the Amateur Entomologist Club and CSIRO activity. Click on the screen to enter a sample post."
+
+2: "This is a sample form where you can enter your findings. Make sure to communicate your findings well, and link to local scientific data that is relevant to your content."
+
+3: "Congratulations! By contributing your findings, you are now officially a JESSICA Citizen Scientist! Click on the image to go back to the front page."
+
+[MORETON BAY]
+
+1: "You have found the Citizen Scientist Monitoring and DNA Profiling Populations activity. Click on the screen to enter a sample post."
+
+2: "This is a sample form where you can enter your findings. Make sure to communicate your findings well, and link to local scientific data that is relevant to your content."
+
+3: "Congratulations! By contributing your findings, you are now officially a JESSICA Citizen Scientist! Click on the image to go back to the front page."
